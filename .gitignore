@@ -1,0 +1,17 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+
+# Local database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# macOS junk
+.DS_Store
